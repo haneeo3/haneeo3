@@ -1,18 +1,19 @@
-# 👋 Hi, I'm **Haneef**
+# 👋 Hi, I'm **Haneef** (Codename: **HO3**)
 
-**Cloud Engineer | DevOps | Terraform | AWS | Python**
+**Cloud Engineer | DevOps | Terraform | AWS | Python | AI & Automation Enthusiast**
 
-I build **cloud-native projects**, automate infrastructure, and share what I learn through hands-on demos and open-source contributions.  
-Passionate about **AWS, Infrastructure as Code, CI/CD, Serverless, Automation, and Backend Engineering**.
+Currently doing my **Solo Leveling Cloud Journey**, posting daily progress on LinkedIn.  
+Passionate about **AI, automation, cloud infrastructure, and continuous learning**.
 
 ---
 
 ## 🚀 About Me
 
-* 🌩️ Cloud Engineer focused on **AWS, Terraform, and Infrastructure Automation**
-* 🛠️ Building practical projects: **website uptime monitors, static sites on AWS, serverless APIs, Terraform modules**
-* 📚 Currently learning: **Advanced Terraform, Serverless Architectures, Monitoring & Logging, DevOps best practices**
-* 🤝 Open to collaborating on **cloud engineering, automation, and open-source DevOps tools**
+* 🌩️ Codename **HO3**  
+* 📚 Currently learning: **Cathelistics**  
+* ♟️ Chess: still bad for now 😅  
+* 🏃 Running: good at long-distance, sprinting not my strongest suit  
+* 🎮 Hobbies: Minecraft, watching sci-fi movies, reading mystery novels  
 
 ---
 
@@ -23,6 +24,8 @@ Passionate about **AWS, Infrastructure as Code, CI/CD, Serverless, Automation, a
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-00BFFF?style=for-the-badge)
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,46 +34,15 @@ Passionate about **AWS, Infrastructure as Code, CI/CD, Serverless, Automation, a
 
 ### **Other Tools**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 **Website Uptime Monitor**
-AWS Lambda + SNS + EventBridge  
-Monitors website uptime every minute and sends alerts when down.  
-[View Project](#)  
-
-### 🔹 **Terraform Static Website Hosting**
-S3 + CloudFront + Route53 + ACM  
-Deploy static website with HTTPS and global CDN using IaC.  
-[View Project](#)  
-
-### 🔹 **AI Customer Service Bot (Serverless)**
-API Gateway + Lambda + Bedrock  
-Smart Q&A bot deployed fully serverless.  
-[View Project](#)  
-
-### 🔹 **Intelligent Document Engine**
-S3 + Textract + OpenSearch + SageMaker  
-Extract, index, and search documents using AI.  
-[View Project](#)  
-
----
-
-## 📈 GitHub Stats
-![Haneef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haneeo3&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haneeo3&layout=compact&theme=tokyonight)
-
----
-
 ## 💬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haneef-olajobi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olajobihaneef@gmail.com)
 
 ---
 
