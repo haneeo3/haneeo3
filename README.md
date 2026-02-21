@@ -18,7 +18,7 @@ Currently on my **Solo Leveling SRE Journey**, building reliable systems and pos
 
 ---
 
-## 🛠️ SRE Tech Stack
+## 🛠️Tech Stack
 
 ### **Infrastructure & Cloud**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -44,23 +44,6 @@ Currently on my **Solo Leveling SRE Journey**, building reliable systems and pos
 
 ---
 
-## 📊 Current Learning Path (3-Month SRE Journey)
-
-**Month 1 (Feb 11 - Mar 11):** Linux + Python + Docker + Monitoring  
-**Month 2 (Mar 11 - Apr 11):** Kubernetes + Terraform + CI/CD  
-**Month 3 (Apr 11 - May 11):** Portfolio Project + Job Applications
-
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Complete 3-month SRE intensive training
-- 🔄 Build end-to-end portfolio project (monitoring platform)
-- 🔄 Land remote SRE role by June 2026
-- 🔄 Contribute to open-source monitoring tools
-- 📈 Maintain daily learning streak (posting on LinkedIn)
-
 ---
 
 ## 📫 Connect With Me
@@ -73,24 +56,6 @@ Currently on my **Solo Leveling SRE Journey**, building reliable systems and pos
 ⏰ Open to remote SRE/DevOps opportunities worldwide
 
 ---
-
-## 📈 GitHub Stats
-
-![Haneef's GitHub stats](https://github-readme-stats.vercel.app/api?username=haneeo3&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haneeo3&layout=compact&theme=dark)
-
----
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 💡 SRE Philosophy
-
 > "Hope is not a strategy. Automation is."  
 > "Monitor everything. Alert intelligently. Sleep peacefully."  
 > "Incidents happen. Blameless post-mortems help us learn."
@@ -100,40 +65,6 @@ Currently on my **Solo Leveling SRE Journey**, building reliable systems and pos
 **⭐ If you find my journey interesting, follow along and let's build reliable systems together!**
 ```
 
----
-
-## **What Changed:**
-
-### **Before (Cloud Engineer focus):**
-- Generic "Cloud Engineer | DevOps"
-- Focus on general cloud/automation
-- No specific career path
-
-### **After (SRE focus):**
-- **Clear SRE branding**
-- **Specific tech stack** (monitoring, Kubernetes, automation)
-- **3-month learning roadmap visible**
-- **SRE philosophy/mindset**
-- **Weekly progress tracking**
-- **Job-seeking clarity** (remote SRE by June 2026)
-
----
-
-## **How to Update Your GitHub Profile:**
-
-1. **Go to:** https://github.com/haneeo3/haneeo3
-2. **Edit** the `README.md` file
-3. **Copy-paste** the new content above
-4. **Commit changes**
-
----
-
-## **Also Update Your LinkedIn About Section:**
-```
-Site Reliability Engineer | AWS | Kubernetes | Python | Terraform | Monitoring & Automation
-
-Building reliable, automated infrastructure that doesn't break at 3am. Currently on an intensive 3-month SRE learning journey (Feb-May 2026), posting daily progress.
-
 🔧 Core Skills:
 - Infrastructure as Code (Terraform)
 - Container Orchestration (Docker, Kubernetes)
@@ -141,16 +72,6 @@ Building reliable, automated infrastructure that doesn't break at 3am. Currently
 - Cloud Platforms (AWS - EC2, S3, VPC, IAM)
 - Automation & Scripting (Python, Bash)
 - CI/CD Pipelines (GitHub Actions)
-
-🎯 Currently Learning:
-Week 1: Linux systems & command line mastery
-Week 2-4: Docker, monitoring, Python automation
-Month 2: Kubernetes, advanced AWS, IaC with Terraform
-Month 3: Portfolio project & job applications
-
-📍 Lagos, Nigeria
-🌍 Open to remote SRE/DevOps opportunities globally
-💼 Available: June 2026
 
 Let's connect if you're passionate about reliability engineering, automation, or building systems that scale!
 
