@@ -95,6 +95,8 @@ I don't just watch tutorials — I build real things, break them, fix them, and 
 ✅ Set up SSH keys, manage permissions, work in Linux/WSL daily
 ```
 
+<img src="https://raw.githubusercontent.com/haneeo3/haneeo3/output/snake.svg" alt="Snake animation" />
+
 ---
 
 ## 🧠 How I Learn
